@@ -3,7 +3,7 @@
 :root{
     --orange:#ffffff;
     --lightcolor:#666;
-    --black:#2e3192;
+    --black:#2175f3;
 }
 *{
     margin: 0;
@@ -32,7 +32,7 @@ html{
     color: var(--black);
 }
 #logo span{
-    color: var(--orange);
+    color: #2175f3;
 }
 .icons #menu-bars{
     color: var(--orange);
@@ -54,7 +54,7 @@ html{
     display: block;
     margin: 1rem;
     padding: 1rem;
-    color: black;
+    color: #2175f3;
     font-size: 1.5rem;
 }
 .background-image{
@@ -75,7 +75,7 @@ html{
 }
 .inner-text-background h2{
     /* color: rgb(255, 255, 255); */
-    color: #2e3192;
+    color: #2175f3;
     font-size: 30px;
 }
 .inner-text-background h1{
@@ -84,7 +84,7 @@ html{
 }
 .inner-text-background h3{
     /* color: rgb(255, 255, 255); */
-    color: #2e3192;
+    color: #2175f3;
     font-size: 30px;
 }
 .what-we-do{
@@ -121,7 +121,7 @@ html{
 .inner-we-do a{
     padding: 2rem 4rem;
     background: var(--black);
-    color: var(--lightcolor);
+    color: white;
     font-size: 1.5rem;
     border-radius: 15px;
 }
@@ -187,7 +187,7 @@ html{
     margin-bottom: 25px;
 }
 .gallery h1 span{
-    color: var(--orange);
+    color: #2175f3;
 }
 .main-gallery{
     display: flex;
@@ -216,7 +216,7 @@ html{
     margin-bottom: 25px;
 }
 .our-prices h1 span{
-    color: var(--orange);
+    color: #2175f3;
 }
 .main-prices{
     display: flex;
@@ -274,7 +274,7 @@ html{
     margin-bottom: 25px;
 }
 .our-clients h1 span{
-    color: var(--orange);
+    color: #2175f3;
 }
 
 .main-client{
@@ -296,12 +296,12 @@ width: 50%;
     background: var(--black);
 }
 .get-in-touch h1{
-    color: black;
+    color: white;
     font-size: 40px;
     text-align: center;
 }
 .main-touch p{
-    color: black;
+    color: white;
     text-align: center;
     font-size: 1.5rem;
 }
@@ -310,7 +310,7 @@ width: 50%;
     margin-top: 20px;
 }
 .touch-icons a{
-    color: black;
+    color: white;
     font-size: 2rem;
     margin-right: 2rem;
 }
