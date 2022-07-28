@@ -59,7 +59,7 @@ html{
 }
 .background-image{
     /* background: url(images/Replace\ your\ Image.png); */
-    background-image: url('../halo-engineering-images/Background.png');
+    background-image: url('../halo-engineering-images/Background.jpg');
     width: 100%;
     height: 100vh;
     background-size: cover;
