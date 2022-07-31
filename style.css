@@ -126,56 +126,7 @@ html{
     border-radius: 15px;
 }
 
-/* .our-servies{
-    padding: 3rem 7%;
-}
-.our-servies h1{
-    color: var(--black);
-    text-align: center;
-    font-size: 40px;
-    margin-bottom: 25px;
-}
-.our-servies h1 span{
-    color: var(--orange);
-}
-.main-services{
-    display: flex;
-    justify-content: center;
-    flex-wrap: wrap;
-    gap: 10px;
 
-}
-.inner-services{
-    flex: 1 1 300px;
-    padding: 2rem 3rem;
-    text-align: center;
-    box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
- 
-}
-.inner-services:hover{
-    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
-    cursor: pointer;
- 
-}
-.inner-services .service-icons{
-    width: 50px;
-    height: 50px;
-    background: var(--black);
-    line-height: 50px;
-    text-align: center;
-    border-radius: 100%;
-    margin: 0 auto;
-    margin-bottom: 15px;
-} */
-/* .inner-services .service-icons i{
-    color: black;
-    font-size: 1.5rem;
-
-}
-.inner-services p{
-    padding: 0 2rem;
-    font-size: 1.5rem;
-} */
 .gallery{
     padding: 3rem 7%;
 
@@ -267,14 +218,16 @@ html{
 .our-clients{
     padding: 3rem 7%;
 }
-.our-clients h1{
-    color: var(--black);
-    font-size: 40px;
+.our-clients h3{
+    /* color: var(--black); */
+    color: white;
+    font-size: 30px;
     text-align: center;
     margin-bottom: 25px;
 }
-.our-clients h1 span{
-    color: #2175f3;
+.our-clients h3 span{
+    /* color: #2175f3; */
+    color: white;
 }
 
 .main-client{
@@ -317,8 +270,15 @@ width: 50%;
 
 
 
-
-
+a#clientss{
+    background-color: #2175f3;
+    color: white;
+    /* padding: 5px 5px 5px 5px; */
+    border-radius: 25px;
+    display: block;
+    width: 25em;
+    text-align: center;
+}
 
 
 
