@@ -157,63 +157,6 @@ html{
 .inner-gallery img:hover{
     transform: scale(1.1);
 }
-/* .our-prices{
-    padding: 4rem 7%;
-}
-.our-prices h1{
-    color: var(--black);
-    font-size: 40px;
-    text-align: center;
-    margin-bottom: 25px;
-}
-.our-prices h1 span{
-    color: #2175f3;
-}
-.main-prices{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    gap: 15px;
-    flex-wrap: wrap;
-}
-.inner-prices{
-    flex-basis: 40%;
-    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
-    padding: 3rem 2rem;
-}
-.price-heading{
-    padding: 3rem;
-    background: var(--black);
-    text-align: center;
-}
-.price-heading h2{
-    color: black;
-    font-size: 2rem;
-}
-.price-heading p{
-    color: black;
-    font-size: 1.5rem;
-}
-.price-text p{
-    font-size: 1.5rem;
-    margin: 1rem 0;
-    color: var(--black);
-}
-.inner-prices .inner-price-heading h2{
-    color: var(--black);
-    font-size: 2rem;
-    margin-bottom: 25px;
-}
-.inner-prices .inner-price-heading h2 span{
-    font-size: 4rem;
-}
-.inner-prices a{
-    padding: 2rem 4rem;
-    font-size: 1.5rem;
-    color: black;
-    background: var(--black);
-    border-radius: 15px;
-} */
 
 .our-clients{
     padding: 3rem 7%;
