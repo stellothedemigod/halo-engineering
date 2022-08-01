@@ -8,3 +8,11 @@ menubar.onclick = () =>{
     mynav.classList.toggle('active');
 }
 
+const MenuCont= document.querySelector(".logo__container");
+const logoToggle = document.querySelector("#logo__btn");
+const logoView = document.querySelector("#our_clients")
+
+logoToggle.addEventListener('click', () => {
+
+    logoView.style.display("inline-block");
+})

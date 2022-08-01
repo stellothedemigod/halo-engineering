@@ -158,17 +158,17 @@ html{
     transform: scale(1.1);
 }
 
-.our-clients{
+.logo__container{
     padding: 3rem 7%;
 }
-.our-clients h3{
+ h3{
     /* color: var(--black); */
     color: white;
     font-size: 30px;
     text-align: center;
     margin-bottom: 25px;
 }
-.our-clients h3 span{
+ h3 span{
     /* color: #2175f3; */
     color: white;
 }
@@ -180,6 +180,11 @@ html{
     gap: 15px;
     flex-wrap: wrap;
 }
+
+#our_clients{
+    display: none;
+}
+
 .inner-client{
     flex-basis: 20%;
     text-align: center;
@@ -213,13 +218,13 @@ width: 50%;
 
 
 
-a#clientss{
+a h3{
     background-color: #2175f3;
     color: white;
     /* padding: 5px 5px 5px 5px; */
     border-radius: 25px;
     display: block;
-    width: 25em;
+    width: 8em;
     text-align: center;
 }
 
