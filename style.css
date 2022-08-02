@@ -102,13 +102,7 @@ html{
 .inner-we-do{
     flex: 1 1 45rem;
 }
-.inner-we-do img{
-    width: 40%;
-    
-}
-.we-do-image{
-    text-align: center;
-}
+
 .inner-we-do h1{
     color:var(--black);
     font-size: 40px;
