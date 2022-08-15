@@ -1,7 +1,3 @@
-
-
-
-
 function display() {
     document.getElementById('our_clients').style.display="flex"
     document.getElementById('logo__btn').style.display="block"
