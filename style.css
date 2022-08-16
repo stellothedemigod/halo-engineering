@@ -249,3 +249,11 @@ table{
         text-align: center;
     }
 }
+
+.contact {
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: small;
+}

@@ -1,0 +1,26 @@
+<div class="info" id="email" style="padding-right: 15px; padding-top: 10px;">
+            <a href="mailto:info@haloengineering.ng" target="_blank" style="color: white;"><img loading="lazy" src="halo-engineering-images\email logo2.png" alt="" style="height: 20px; width: 25px;">
+                <span style="padding-left: 10px;" >
+                    info@haloengineering.ng
+                </span>
+            </a>
+        </div>
+
+
+         <div class="info" id="facebook">
+                <a href="https://fb.me/haloengineeringng" target="_blank" style="color: white;"><img loading="lazy" src="halo-engineering-images\facebook logo.png" alt="" style="height: 25px; width: 25px;">
+                    <span style="padding-left: 10px;">
+                        Halo Engineering Services Limited
+                    </span>
+                </a>
+            </div>
+
+
+            <div class="info" id="linkedin">    
+            <a href="https://www.linkedin.com/company/halo-engineering-services-limited/"  target="_blank" style="color: white;"> 
+                <img loading="lazy" src="halo-engineering-images\linkedin.png" alt="" style="width: 25px; height: 25px;">
+                <span style="padding-left:10px;">
+                    Halo Engineering Services Limited
+                </span>
+            </a>
+        </div>
